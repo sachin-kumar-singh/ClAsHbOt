@@ -45,3 +45,5 @@ Key features:
 Check the [wiki](https://github.com/CodeSlinger69/ClAsHbOt/wiki)!
 
 -- CodeSlinger69
+
+### Go CoC
